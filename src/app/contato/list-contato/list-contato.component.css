@@ -47,5 +47,13 @@
   100% { transform: rotate(360deg); }
 
 }
+th, td{
+  background-color: #b9e7f5;
 
- 
+}
+
+h2{
+  background-color: #b9e7f5;
+  border-radius: 6px;
+  width: 16%;
+}
